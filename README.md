@@ -3,7 +3,9 @@
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinxyu&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinxyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div><br>
+
+![Image](https://github.com/user-attachments/assets/7515cd82-e9cc-4bc4-b4cf-e0b0341f8673)
 
 # About me 
   ***Hiiii my name's Vinicius👋<br>
