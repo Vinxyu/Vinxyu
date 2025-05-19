@@ -14,26 +14,6 @@
   I actually study in second year of High School🏫<br>
   My english it's so-so***
 
-# I like 😊
-
-* ### Play a Video-Games 🕹️
-* ### Listen Old Musics 🎵
-* ### My Family 🏠
-* ### Progamation 💻
-* ### Create a Projects ⚒️
-* ### New chances forms for learning 📜
-* ### New knowledge's 📖
-* ### New challenge's 🗻
-
-# My goal's 📈
-
-* ### Go to other country for study my area ❌
-* ### Make a plain for study ✅
-* ### Get a first job ❌
-* ### Working from home ❌
-* ### Complete the High School ❌
-* ### Get a true friend's ❌
-* ### Fluent in English ❌
 
 # Tool's and language's 💻
 
