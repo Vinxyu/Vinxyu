@@ -24,29 +24,6 @@ I also started studying UX/UI with Figma.**
   <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Vinxyu&show_icons=true&title_color=504B38&text_color=537D5D&icon_color=AB886D&bg_color=F8F3D9&hide_border=true" />
 </div><br>
 
-
-<div align="center">
- <hr>
- <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=B6F500&text=Certificates&fontSize=23&fontColor=FFFADC"/>
-</div>
- <details>
-  <summary><h1>Front-End</h1></summary>
-  <ul>
-   <img src="https://raw.githubusercontent.com/Vinxyu/CERTIFICADOS/refs/heads/main/A%20partir%20do%20zero%20iniciante%20em%20programa%C3%A7%C3%A3o/FRENTE.png?token=GHSAT0AAAAAADHLDF5G3K5IHYN4NQBWAEW42EHVTFQ" alt="Minha imagem" />
-   <img src="https://raw.githubusercontent.com/Vinxyu/CERTIFICADOS/refs/heads/main/A%20partir%20do%20zero%20HTML%20e%20CSS%20para%20projetos%20web/VERSO.png?token=GHSAT0AAAAAADHLDF5HP6YYLKUSYCQLVKXA2EHVWMA"/>
-   <img src="https://raw.githubusercontent.com/Vinxyu/CERTIFICADOS/refs/heads/main/Captura%20de%20tela%202025-02-10%20175137.png?token=GHSAT0AAAAAADHLDF5GNB25S3ZVB5UBX64S2EHV2EA"/>
-  </ul>
-</details>
-
- <details>
-  <summary><h1>Back-End</h1></summary>
-  <ul>
-   <img src="https://raw.githubusercontent.com/Vinxyu/CERTIFICADOS/refs/heads/main/A%20partir%20do%20zero%20HTML%20e%20CSS%20para%20projetos%20web/FRENTE.png?token=GHSAT0AAAAAADHLDF5G767P6FZNO7W6W3KK2EHVWKA"/>
-   <img src="https://raw.githubusercontent.com/Vinxyu/CERTIFICADOS/refs/heads/main/A%20partir%20do%20zero%20iniciante%20em%20programa%C3%A7%C3%A3o/VERSO.png?token=GHSAT0AAAAAADHLDF5GS6VVKTDXN7LK4LAW2EHVVCQ"/>
-  </ul>
-</details>
-<hr>
-
 # Language's 💻
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
