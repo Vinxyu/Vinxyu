@@ -12,7 +12,7 @@
  **I'm developing my knowledge in the full-stack field and becoming a Software Engineer, combining my creativity and logic.
 I also started studying UX/UI with Figma.**
 
-**I started studying at the end of 2024, embarking on a career in Front-End development, and completed my first course. I then started studying at @Alura and also taking courses on @Udemy.**
+**I started studying at the end of 2024, embarking on a career in Front-End development, and completed my first course. I then started studying at [@Alura](https://github.com/alura) and also taking courses on [@Udemy](https://github.com/udemy).**
 
 **I'm currently studying Java and will be updating my Front-End knowledge.**
 
