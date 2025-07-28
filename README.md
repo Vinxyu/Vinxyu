@@ -4,8 +4,8 @@
 </div>
 <div align="center">
  <hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&weight=500&size=38&duration=3000&pause=1000&color=F8F3D9&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Greetings+GitHub!+I'm+Vinxyu" alt="Typing SVG" /></a>
-<hr>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&weight=500&size=28&pause=3000&color=F8F3D9&vCenter=true&width=435&lines=Greetings+GitHub!+I'm+Vinxyu" alt="Typing SVG" /></a>
+ <hr>
 </div>
 
 # 📖 About me 
@@ -24,12 +24,6 @@ I also started studying UX/UI with Figma.**
   <img height="180em" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Vinxyu&show_icons=true&title_color=504B38&text_color=537D5D&icon_color=AB886D&bg_color=F8F3D9&hide_border=true" />
 </div><br>
 
-
-# Language's 💻
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <div align="center">
  <hr>
@@ -52,6 +46,12 @@ I also started studying UX/UI with Figma.**
   </ul>
 </details>
 <hr>
+
+# Language's 💻
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # Tool's
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
